@@ -1,0 +1,9 @@
+javac Coordinate.java
+javac WorldObject.java
+javac Queue.java
+javac HoldingObject.java
+javac Tool.java
+javac PickAxe.java
+javac Player.java
+javac World.java
+javac Primary.java
